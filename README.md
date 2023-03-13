@@ -1,1 +1,3 @@
-# ak-view-count-plugin
+# A simple post view counter for WordPress
+
+- 
